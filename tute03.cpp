@@ -28,7 +28,7 @@ int main()
     int no;
     long fac;
 
-    cout<<"Enter a Number : ";
+    cout<< "Enter a Number : ";
     cin>>no;
 
     fac = 1;
